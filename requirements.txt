@@ -2,5 +2,5 @@ Flask
 Flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
-setuptools==0.7.3
+setuptools == 1.0
 uwsgi
