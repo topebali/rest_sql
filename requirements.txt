@@ -4,4 +4,4 @@ Flask-JWT
 Flask-Migrate
 Flask-SQLAlchemy
 Flask-Script
-gunicorn
+gunicorn==19.9.0
