@@ -61,7 +61,7 @@ class Item(Resource):
 
         else:
             item.price = data['price']
-            item.store = data['store_id']
+            item.store_id = data['store_id']
 
         item.save_to_db()
         
